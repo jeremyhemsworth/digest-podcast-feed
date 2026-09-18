@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Hemsworth Weekly Digest</title>
+    <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev</link>
+    <description>Weekly digest of the best insights from newsletters and podcasts — AI-generated audio summary covering signal, contrarian takes, and tactical takeaways.</description>
+    <language>en-us</language>
+    <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
+    <atom:link href="https://jeremyhemsworth.github.io/digest-podcast-feed/rss.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Jeremy Hemsworth</itunes:author>
+    <itunes:owner>
+      <itunes:name>Jeremy Hemsworth</itunes:name>
+      <itunes:email>jeremy.hemsworth@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/cover-3000.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Marketing"/>
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <copyright>© 2026 Jeremy Hemsworth</copyright>
+    <managingEditor>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</managingEditor>
+    <webMaster>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</webMaster>
+    <lastBuildDate>Fri, 18 Sep 2026 14:05:50 +0000</lastBuildDate>
+    <itunes:email>jeremy.hemsworth@gmail.com</itunes:email>
+    <itunes:summary>Weekly digest of the best insights from newsletters and podcasts — AI-generated audio summary covering signal, contrarian takes, and tactical takeaways.</itunes:summary>
+    <itunes:subtitle>Signal, contrarian takes, and tactical takeaways from the week's newsletters and podcasts.</itunes:subtitle>
+                                                                                                                                                        <item>
+      <title>Sep 10–17 | Velocity beats returns · 800K applications · Tedium was the moat</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-09-17.mp3</link>
+      <description>Bending Spoons made under 300 hires from 800,000 applications. Baylor's CIO on why velocity of capital beats returns. Dario's pacing letter read as an S-1 risk factor. Plus HubSpot's AEO ledger and why tedium was the moat.</description>
+      <pubDate>Thu, 17 Sep 2026 21:51:41 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-09-17.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-09-17.mp3" length="14661261" type="audio/mpeg"/>
+      <itunes:duration>15:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Aug 16-23 | Open source wins it all - $100K token budgets - Put the data aside</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-23.mp3</link>
+      <description>Anthropic out-earns OpenAI for the first time. The real math behind AI TAM: $100K of tokens per engineer. Harvey ships on open weights. And the CEO running Barnes &amp; Noble on zero marketing dollars and a policy of ignoring his own data.</description>
+      <pubDate>Sun, 23 Aug 2026 13:27:39 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-23.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-23.mp3" length="14851805" type="audio/mpeg"/>
+      <itunes:duration>15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Aug 12–19 | Nobody reads the code · Google's exodus is correct · AEO beats SEO</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-19.mp3</link>
+      <description>Google losing Jeff Dean is correct capital allocation, not a crisis. Reviewers have stopped reading the code. Answer engines are 10x bigger than your analytics show. Plus: why real differentiation means prioritizing what customers don't care about.</description>
+      <pubDate>Wed, 19 Aug 2026 13:24:17 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-19.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-19.mp3" length="14178518" type="audio/mpeg"/>
+      <itunes:duration>14:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Aug 9–16 | Non-founder companies are zeros · The $5M nuclear box · The IC revolt</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-16.mp3</link>
+      <description>Jason Lemkin: any company not run by a founder is a zero in the agentic era. Valar Atomics built a $5M part for $400K in six weeks. Only 4 of 320 ICs would choose management. Plus Kalanick on Benchmark, and Anthropic's $2-3T IPO.</description>
+      <pubDate>Sun, 16 Aug 2026 13:33:53 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-16.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-16.mp3" length="14200253" type="audio/mpeg"/>
+      <itunes:duration>14:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Aug 2–9 | Most agents lack agency · 67% bought zero points · AI wrote a virus</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-09.mp3</link>
+      <description>Palo Alto CEO Nikesh Arora says most enterprise agents are glorified workflows. a16z metered an AI loop and found 67% of the bill bought zero improvement. Plus Shopify agentic commerce data, AI-designed viruses, and venture holding-period risk.</description>
+      <pubDate>Sun, 09 Aug 2026 13:33:47 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-09.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-09.mp3" length="29920069" type="audio/mpeg"/>
+      <itunes:duration>31:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 29–Aug 5 | Airtable sold at 2.7x ARR · Cursor's $125B trap · Fake engineers</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-05.mp3</link>
+      <description>Airtable sold at 2.7x ARR — gross retention, not growth, set the price. SpaceX's uncollared exchange ratio turns a $60B Cursor deal into $125B. Nine Chinese models outrank America's best open model. Arena interviewed an engineer who doesn't exist.</description>
+      <pubDate>Wed, 05 Aug 2026 13:29:13 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-05.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-05.mp3" length="24630377" type="audio/mpeg"/>
+      <itunes:duration>25:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 26–Aug 2 | Volatility, not leverage · 31,832 PMs, one hire · AI's taste gap</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-02.mp3</link>
+      <description>Whatnot hired one PM out of 31,832 applicants, and their CPO says that's the strategy. Risk is volatility squared: why the blowup wasn't about leverage. Nobody owns your AI bill, and 18% of enterprise AI spend is untraceable.</description>
+      <pubDate>Sun, 02 Aug 2026 13:27:42 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-02.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-08-02.mp3" length="33171091" type="audio/mpeg"/>
+      <itunes:duration>34:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 20–29 | Finished software still pays · The $18T open letter · Layoff trap</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-29.mp3</link>
+      <description>A version of Basecamp discontinued in 2010 still makes millions a year in near-pure profit. An $18 trillion coalition letter on open weights, and the one company that did not sign. Plus the layoff-trap paper: everyone loses, owners included.</description>
+      <pubDate>Wed, 29 Jul 2026 21:58:51 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-29.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-29.mp3" length="33186974" type="audio/mpeg"/>
+      <itunes:duration>34:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 18–24 | A million models, not AGI · Agents order now · The guardrail trap</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-24.mp3</link>
+      <description>Fireworks' Lin Qiao argues the future is millions of specialized models, not one AGI. Plus: DoorDash's agents are already reordering the basket, Jim Collins on why 'do what you love, the money follows' is false, and the China-model story gets a cybersecurity twist.</description>
+      <pubDate>Fri, 24 Jul 2026 15:36:11 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-24.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-24.mp3" length="12817226" type="audio/mpeg"/>
+      <itunes:duration>13:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 13–19 | One agent, zero department · The AI price war · Hitting TAM fastest</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-19.mp3</link>
+      <description>Curative replaced a whole department with one agent (12 hours, 20 cents). The AI capability race turns into a price war. Plus the coding TAM ceiling, why software stopped being a moat, and the VCs funding AI who&#x27;ve never touched Claude Code.</description>
+      <pubDate>Sun, 19 Jul 2026 13:20:37 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-19.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-19.mp3" length="12424762" type="audio/mpeg"/>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 9–15 | 80% of tokens do nothing · Sports: the anti-AI bet · The trust moat</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-15.mp3</link>
+      <description>a16z says the agent economy is rebuilding every management dysfunction — 80% of tokens do nothing. Plus Wix’s Avishai Abrahami on why you won’t vibe-code Shopify, and Alexis Ohanian on sports as the ultimate anti-AI bet.</description>
+      <pubDate>Wed, 15 Jul 2026 13:19:34 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-15.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-15.mp3" length="11183378" type="audio/mpeg"/>
+      <itunes:duration>11:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 6–12 | There are no moats · Open source ate enterprise · Taste is scarce</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-12.mp3</link>
+      <description>Booking's Glenn Fogel: there's no such thing as a moat. Glean's Arvind Jain: 90% of enterprise use cases now run on open source. Ramp's Eric Glyman: the AI labs are the real competition. Plus the 3 Us growth framework and California's new SaaS tax.</description>
+      <pubDate>Sun, 12 Jul 2026 13:20:54 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-12.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-12.mp3" length="13953239" type="audio/mpeg"/>
+      <itunes:duration>14:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul 2–8 | Workforce splits in two · Reality quotient over IQ · Own the outcome</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-08.mp3</link>
+      <description>The tech workforce splits in two by how AI treats you; Jonathan Ross on why reality quotient beats IQ; Hanover Park's case that B2B SaaS is dead; and Mike Mignano's rule — don't automate, obliterate.</description>
+      <pubDate>Wed, 08 Jul 2026 13:19:11 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-08.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-08.mp3" length="14693444" type="audio/mpeg"/>
+      <itunes:duration>15:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 29–Jul 5 | Competent is worthless · Coinbase's agent army · deletion wins</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-05.mp3</link>
+      <description>Coinbase counts 1,200 AI agents as headcount and fixes the context, not the output. Why competent is now worthless, Pincus on Proven-Better-New, the open-source ban that could kill Cursor, and why the deletion was the product.</description>
+      <pubDate>Sun, 05 Jul 2026 13:19:44 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-05.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-05.mp3" length="10620805" type="audio/mpeg"/>
+      <itunes:duration>11:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 25–Jul 1 | AI is hiring, not firing · the token paradox · extinction events</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-01.mp3</link>
+      <description>The first hard data on AI and jobs — heavy adopters are hiring more, not fewer. Plus why cheaper tokens keep raising your bill, Scott Wu on building software used once, Chamath's $4T services bet, and Bloom Energy's no-bubble case.</description>
+      <pubDate>Wed, 01 Jul 2026 13:17:27 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-01.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-07-01.mp3" length="15343789" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 22–28 | ROI is a redesign problem · open source isn't free · 150-seat cliff</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-28.mp3</link>
+      <description>The bottleneck to AI ROI is redesigning the work, not the model. Plus: why "open source" AI is really a Chinese state subsidy, the 150-seat token cliff blowing up budgets, the NDR-to-valuation exchange rate, and why AI makes everyone sound the same.</description>
+      <pubDate>Sun, 28 Jun 2026 13:16:50 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-28.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-28.mp3" length="11343919" type="audio/mpeg"/>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 18–24 | Token prices are 10x too high · Models go commodity · Hiding NDR</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-24.mp3</link>
+      <description>The CEOs of Palo Alto Networks and IBM say AI token prices are 10x too high and foundation models commoditize within two years. Plus: the 130 percent NDR club hit zero, and why retention still defines PMF.</description>
+      <pubDate>Wed, 24 Jun 2026 13:15:47 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-24.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-24.mp3" length="10311098" type="audio/mpeg"/>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 15&#8211;21 | Execution is free now &#183; Own the orchestrator &#183; Mom-and-Pop SaaS</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-21.mp3</link>
+      <description>The AI-native operating model: when execution is nearly free, strategy and verification become the bottleneck. Plus the China AI split, Derek Thompson on biometric capitalism, and why you should not trust the platform that profits from watching you.</description>
+      <pubDate>Sun, 21 Jun 2026 13:20:54 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-21.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-21.mp3" length="9687502" type="audio/mpeg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 11-17 | Agent ARR is worth 10x SaaS, the AI hangover, Pixar's quality bet</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-17.mp3</link>
+      <description>Salesforce pays $3.6B for Fin and the market values agent ARR at 27-30x vs 2-3x for SaaS. Plus the three-phase AI hangover, Gavin Baker on the token path, and Ed Catmull on why quality is the business plan.</description>
+      <pubDate>Wed, 17 Jun 2026 13:19:06 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-17.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-17.mp3" length="13130277" type="audio/mpeg"/>
+      <itunes:duration>13:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 8–14 | AI is a compiler, not a runtime · Record everything · Franchisee era</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-14.mp3</link>
+      <description>Why tokenmaxxing is this cycle’s dumb metric and AI is a compiler, not a runtime; the case that everything you say at work is now recorded; the lean-company era; and why becoming a franchisee may be the most AI-proof career move.</description>
+      <pubDate>Sun, 14 Jun 2026 13:15:46 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-14.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-14.mp3" length="11060080" type="audio/mpeg"/>
+      <itunes:duration>11:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 4-10 | There's no right org - Your eval is the moat - The continuous close</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-10.mp3</link>
+      <description>Spotify's Gustav Soderstrom on why there's no right org, Satya Nadella on private eval as the real moat, the death of the monthly close, and why your biggest competitor is the customer doing nothing.</description>
+      <pubDate>Wed, 10 Jun 2026 13:20:23 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-10.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-10.mp3" length="11362310" type="audio/mpeg"/>
+      <itunes:duration>11:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jun 1–7 | Tokens over humans · SaaS reaccelerates · WFH took the jobs</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-07.mp3</link>
+      <description>The token-budget war gets a number—Uber's 10% cap vs. Lemkin's 33% bet and "tokens over humans"—plus the SaaS reacceleration, the Anthropic $965B IPO-anchor plumbing, and the contrarian data saying WFH, not AI, took the entry-level jobs.</description>
+      <pubDate>Sun, 07 Jun 2026 13:17:31 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-07.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-07.mp3" length="13352213" type="audio/mpeg"/>
+      <itunes:duration>13:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 28-Jun 3 | App layer has no moat - Data gravity is fake - The zeroth world</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-03.mp3</link>
+      <description>Two AI insiders make opposite bets on whether SaaS survives the model: Mercor&apos;s Foody says the app layer has no moat, Fivetran&apos;s Fraser says data gravity is fake. Plus Dario Amodei&apos;s zeroth world and Google&apos;s $80B AI capex raise.</description>
+      <pubDate>Wed, 03 Jun 2026 13:15:46 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-03.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-06-03.mp3" length="11839619" type="audio/mpeg"/>
+      <itunes:duration>12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 25–31 | You are what you hunt · Lovable&#x27;s $400M · The 7-day workweek war</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-31.mp3</link>
+      <description>Lovable&#x27;s $400M ARR with 146 people, Jeeves cuts headcount 200 to 140 while 10x-ing revenue, &quot;you are what you hunt,&quot; Corgi&#x27;s 7-day-workweek manifesto, the AI-copilot narrative violation, and why foundation models have no lasting pricing power.</description>
+      <pubDate>Sun, 31 May 2026 13:14:47 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-31.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-31.mp3" length="14750287" type="audio/mpeg"/>
+      <itunes:duration>15:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 21–27 | Mission lock or lose it · AI-native double SDRs · The Pope vs SV</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-27.mp3</link>
+      <description>Eric Ries on PBC mission lock and Anthropic&#39;s long-term benefit trust. Mostly Growth&#39;s 1.4M-worker GTM dataset: AI-native companies have doubled SDR headcount YoY. Pope Leo XIV&#39;s first encyclical lands on Silicon Valley.</description>
+      <pubDate>Wed, 27 May 2026 13:22:54 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-27.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-27.mp3" length="12815554" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 18-24 | $1000 disproved Erdos · The cursor layer · BYOT saves SaaS</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-24.mp3</link>
+      <description>SpaceX S-1 reveals Anthropic paying $1.25B/month for Colossus 2. GPT-5.5 disproves an 80-year-old Erdos conjecture for $1,000. Anthropic's $1.2M rep packages and group quota signal an unsustainable comp bubble. Gen Z's anti-AI moment goes public.</description>
+      <pubDate>Sun, 24 May 2026 13:31:28 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-24.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-24.mp3" length="22516013" type="audio/mpeg"/>
+      <itunes:duration>23:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 14-20 | Two companies, 89% of AI revenue · Karpathy goes IC · The studio system returns</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-20.mp3</link>
+      <description>Anthropic + OpenAI captured 89% of AI startup revenue. Karpathy joined Anthropic as IC #N. SpaceX targets $1.75T at IPO. Wayve put autonomy in 90% of Nissan. Manifestos beat ICP worksheets.</description>
+      <pubDate>Wed, 20 May 2026 13:23:25 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-20.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-20.mp3" length="18177552" type="audio/mpeg"/>
+      <itunes:duration>18:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 11–17 | Your shares don&#x27;t exist · Cerebras goes vertical · The middle thins</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-17.mp3</link>
+      <description>Anthropic told 8 SPV brokers your shares don&#x27;t exist. Cerebras opened at $350 — IPO window is open. Elena Verna becomes Lovable&#x27;s first HI-C as the middle thins. Plus AI margin compression, Pax Silica, Eric Ries case studies.</description>
+      <pubDate>Sun, 17 May 2026 13:21:26 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-17.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-17.mp3" length="12031000" type="audio/mpeg"/>
+      <itunes:duration>12:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 7–13 | Tokens > salaries · The first AI take-private · Multiplayer AI</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-13.mp3</link>
+      <description>Long Lake's $6.3B AmEx GBT take-private signals the AI roll-up era. Cliff Weitzman: next year tokens will cost more than salaries. Aakash's 10 Laws of Claude Skills.</description>
+      <pubDate>Wed, 13 May 2026 13:15:23 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-13.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-13.mp3" length="12201527" type="audio/mpeg"/>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 4–10 | The most aggressive quarter in capitalism · Anthropic to $1T · Free is dead</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-10.mp3</link>
+      <description>The Mag 7 Q1 capex print, Anthropic raising $50B in 48 hours at ~$1T, Eric Ries on why 80% of founders lose CEO seat post-IPO, Becca Lindquist on Clay&#x27;s sales playbook, and the end of consensus venture capital.</description>
+      <pubDate>Sun, 10 May 2026 13:19:50 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-10.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-10.mp3" length="13916502" type="audio/mpeg"/>
+      <itunes:duration>14:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>May 1–6 | Engineers stopped coding · AppLovin&#x27;s buyback · Freemium is dead</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-06.mp3</link>
+      <description>Tobi Lütke says Shopify&#x27;s best engineers haven&#x27;t written code this year. The full mechanics of AppLovin&#x27;s $50B buyback. Why the SaaS freemium playbook fails in AI.</description>
+      <pubDate>Wed, 06 May 2026 13:23:07 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-06.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-06.mp3" length="16805810" type="audio/mpeg"/>
+      <itunes:duration>17:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 27–May 3 | Agents pick Stripe · Atlas up 71% · PE playbook is dead</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-03.mp3</link>
+      <description>Agents pick their own SaaS stack and they pick Stripe. The PE software exit funnel collapsed — Medallia is the canary. Big Tech is buying creator media as a CAC strategy at $50K-plus ACV.</description>
+      <pubDate>Sun, 03 May 2026 13:32:33 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-03.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-05-03.mp3" length="13093914" type="audio/mpeg"/>
+      <itunes:duration>13:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 23–29 | Cash flow minus SBC · Workday&#x27;s last Workday · Grower vs Harvester</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-29.mp3</link>
+      <description>AppLovin&#x27;s Adam Foroughi names the SaaS metric that strips out the financial-engineering layer. a16z is openly soliciting founders to kill Workday. And a CEO archetype that explains the last decade at Apple.</description>
+      <pubDate>Wed, 29 Apr 2026 13:18:02 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-29.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-29.mp3" length="13174580" type="audio/mpeg"/>
+      <itunes:duration>13:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 20–26 | Discovery is over · Token theater at Meta · Ship in a day</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-26.mp3</link>
+      <description>Distribution is the last moat. Token theater at 85K scale at Meta. How Anthropic ships in a day. Plus: ServiceNow beat every number and dropped 18%.</description>
+      <pubDate>Mon, 27 Apr 2026 17:01:56 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-26.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-26.mp3" length="8854092" type="audio/mpeg"/>
+      <itunes:duration>9:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 16–23 | Lean capital as moat · Agent operators · UI that teaches is over</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-23.mp3</link>
+      <description>Bolt beat Uber raising 12x less capital, the “agent operator” as the real enterprise bottleneck, SAP’s CTO on the death of traditional UI, and why owning model weights beats renting the API.</description>
+      <pubDate>Thu, 23 Apr 2026 22:40:22 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-23.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-23.mp3" length="10778376" type="audio/mpeg"/>
+      <itunes:duration>11:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 13–19 | Compute replaced headcount · Enterprise is 2/3 of AI · Software has no moat</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-19-v2.mp3</link>
+      <description>Sundar on compute allocation, the 60% doom loop, Anthropic's structural compounding, and Evan Spiegel's lesson every software company is learning right now.</description>
+      <pubDate>Mon, 20 Apr 2026 00:18:25 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-19-v2.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-19-v2.mp3" length="11906448" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 13–19 | The 60% product must be free · AEO eats SEO · Anthropic’s $30B</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-19.mp3</link>
+      <description>The 60% SaaS doom loop, Anthropic’s $30B quarter, AEO as the new GTM playbook, and why half of PMs are in trouble — plus the one-person billion-dollar company arriving in 12 months.</description>
+      <pubDate>Sun, 19 Apr 2026 14:44:31 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-19.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-19.mp3" length="7087796" type="audio/mpeg"/>
+      <itunes:duration>7:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 9–15 | Most teams build the wrong agent · AI outbound is dead · Anthropic pulled ahead</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-16.mp3</link>
+      <description>Most teams over-engineer their agent strategy. AI outbound is functionally dead. And Anthropic just posted 21B in net new ARR in a single quarter.</description>
+      <pubDate>Thu, 16 Apr 2026 19:38:38 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-16.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-16.mp3" length="10477445" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 7–13 | Don't ask customers why · Anthropic $30B · Growth always slows</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-13.mp3</link>
+      <description>CMOs are now the top AI users. Anthropic built a model they can't release. And why talking to consumers corrupts product decisions.</description>
+      <pubDate>Mon, 13 Apr 2026 22:26:55 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-13.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-13.mp3" length="7544626" type="audio/mpeg"/>
+      <itunes:duration>7:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apr 2–08 | Nobody writes code anymore · ARR is a lie · The $200 plan won’t last</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-08.mp3</link>
+      <description>Dark factories are live. Anthropic hits $19B ARR. Mid-career engineers most at risk. And the $200 unlimited AI subscription has a ticking clock.</description>
+      <pubDate>Thu, 09 Apr 2026 04:39:20 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-08.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-08.mp3" length="7345677" type="audio/mpeg"/>
+      <itunes:duration>7:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 28–Apr 3 | Dark factories are here · Accelerate or die · Apple aggregates AI</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-03.mp3</link>
+      <description>The dark factory model is in production. One path left for SaaS. Apple's aggregation play beats building AI.</description>
+      <pubDate>Sat, 04 Apr 2026 04:01:59 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-03.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-03.mp3" length="6589171" type="audio/mpeg"/>
+      <itunes:duration>6:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 30–Apr 2 | Dark factory is live · AI ships the malware · Two website audiences</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-02.mp3</link>
+      <description>This week: StrongDM’s dark factory (3 people, 32k lines, no code review), AI coding agents as a supply chain attack surface, and why your website now has two audiences — humans and LLMs.</description>
+      <pubDate>Thu, 02 Apr 2026 21:14:38 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-02.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-04-02.mp3" length="5675094" type="audio/mpeg"/>
+      <itunes:duration>5:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 27–29 | Double ARPU or it's a feature · Profitability trap · Agent org design</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-29.mp3</link>
+      <description>This week: Rory O'Driscoll's ARPU litmus test for AI, OnlyCFO on why FCF optimization is a trap, and Claire Vo on building an agent org that replaced a contractor.</description>
+      <pubDate>Sun, 29 Mar 2026 18:14:46 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-29.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-29.mp3" length="6194618" type="audio/mpeg"/>
+      <itunes:duration>6:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 21–27 | Grow 10 or earn 40 · Anthropic owns enterprise · Trust is the new growth</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-27.mp3</link>
+      <description>This week: a16z's two-path mandate for software companies, Anthropic capturing 73% of new enterprise AI spend, and Elena Verna's case that growth is now a trust problem.</description>
+      <pubDate>Fri, 27 Mar 2026 15:37:10 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-27.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-27.mp3" length="7001697" type="audio/mpeg"/>
+      <itunes:duration>7:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 19–25 | Grow 10 or earn 40 · Revenue durability failing · The Lovable Score</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/digest-2026-03-25.mp3</link>
+      <guid isPermaLink="false">digest-2026-03-25</guid>
+      <pubDate>Wed, 25 Mar 2026 07:00:00 +0000</pubDate>
+      <description>Weekly digest covering: Grow 10 or earn 40 (a16z), Revenue durability failing (OnlyCFO), The Lovable Score (Elena Verna), OpenAI's IPO narrative (Om Malik), Karpathy's autoresearch loop, AI inference inflection, AI GTM stack costs. Plus contrarian takes and 5 tactical actions.</description>
+      <itunes:summary>Weekly digest covering: Grow 10 or earn 40 (a16z), Revenue durability failing (OnlyCFO), The Lovable Score (Elena Verna), OpenAI's IPO narrative (Om Malik), Karpathy's autoresearch loop, AI inference inflection, AI GTM stack costs. Plus contrarian takes and 5 tactical actions.</itunes:summary>
+      <itunes:duration>18:30</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/digest-2026-03-25.mp3" length="7668760" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mar 16–22 | Kill your own ARR · Revenue durability failing · Autoresearch loop</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-22.mp3</link>
+      <description>This week: Intercom killed $60M ARR to go AI-first and won, OnlyCFO on why most SaaS revenue durability is a fiction, Karpathy's autoresearch loop applied to prompts for $10, and a16z on the Jevons paradox of customer attention.</description>
+      <pubDate>Sun, 22 Mar 2026 19:33:34 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-22.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-22.mp3" length="7552149" type="audio/mpeg"/>
+      <itunes:duration>7:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 12–18 | Models won't commoditize · The spec comes after · Disrupt or die</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-18.mp3</link>
+      <description>This week: why agents make model commoditization impossible, Boris Cherny shipping 30 PRs/day with zero manual code, Intercom killing $60M ARR to survive, and Elena Verna's five retention techniques tested at 1M+ paid users.</description>
+      <pubDate>Wed, 18 Mar 2026 18:37:55 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-18.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-18.mp3" length="5781674" type="audio/mpeg"/>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 10–16 | Weekly Digest</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-16.mp3</link>
+      <description>Weekly digest of newsletter and podcast insights.</description>
+      <pubDate>Mon, 16 Mar 2026 20:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-16.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-16.mp3" length="6175391" type="audio/mpeg"/>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mar 8–15 | Weekly Digest</title>
+      <link>https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-15.mp3</link>
+      <description>Weekly digest of newsletter and podcast insights.</description>
+      <pubDate>Sun, 15 Mar 2026 02:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-15.mp3</guid>
+      <enclosure url="https://pub-e37abfe886924285a38b50a17854523d.r2.dev/episodes/digest-2026-03-15.mp3" length="4908557" type="audio/mpeg"/>
+      <itunes:duration>5:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
