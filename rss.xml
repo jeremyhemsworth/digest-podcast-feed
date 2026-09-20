@@ -21,11 +21,21 @@
     <copyright>© 2026 Jeremy Hemsworth</copyright>
     <managingEditor>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</managingEditor>
     <webMaster>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</webMaster>
-    <lastBuildDate>Sun, 20 Sep 2026 00:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:20:20 +0000</lastBuildDate>
     <itunes:email>jeremy.hemsworth@gmail.com</itunes:email>
     <itunes:summary>Weekly digest of the best insights from newsletters and podcasts — AI-generated audio summary covering signal, contrarian takes, and tactical takeaways.</itunes:summary>
     <itunes:subtitle>Signal, contrarian takes, and tactical takeaways from the week's newsletters and podcasts.</itunes:subtitle>
-                                                                                                                                                        <item>
+    <item>
+      <title>Sep 13–20 | Agents are the majority user · Cap table dead zones · The PM drain</title>
+      <link>https://jeremysdigest.com/episodes/digest-2026-09-20.mp3</link>
+      <description>Together AI's CPO says agents are already the majority user of their products. Plus the dead zone in Pulley's cap table, Miro selling at 2.7x revenue after a $17.5B mark, and why everyone good at product management leaves it.</description>
+      <pubDate>Sun, 20 Sep 2026 13:20:20 +0000</pubDate>
+      <guid isPermaLink="false">https://jeremysdigest.com/episodes/digest-2026-09-20.mp3</guid>
+      <enclosure url="https://jeremysdigest.com/episodes/digest-2026-09-20.mp3" length="14005020" type="audio/mpeg"/>
+      <itunes:duration>14:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sep 12–19 | The margin is in the cache · Debt gates disruption · App slop</title>
       <link>https://jeremysdigest.com/episodes/digest-2026-09-19.mp3</link>
       <description>96% of the tokens in an agent session are cached, and that is where the margin lives. Three teams shipped agents this month and disagree on whether users should see the thinking. Plus why disruption is gated by debt, not capability.</description>
