@@ -21,11 +21,21 @@
     <copyright>© 2026 Jeremy Hemsworth</copyright>
     <managingEditor>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</managingEditor>
     <webMaster>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</webMaster>
-    <lastBuildDate>Sun, 04 Oct 2026 13:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:18:01 +0000</lastBuildDate>
     <itunes:email>jeremy.hemsworth@gmail.com</itunes:email>
     <itunes:summary>Weekly digest of the best insights from newsletters and podcasts — AI-generated audio summary covering signal, contrarian takes, and tactical takeaways.</itunes:summary>
     <itunes:subtitle>Signal, contrarian takes, and tactical takeaways from the week's newsletters and podcasts.</itunes:subtitle>
         <item>
+      <title>Oct 4–7 | Agents will eat from both ends · GDP per gigawatt · The "with AI" label</title>
+      <link>https://jeremysdigest.com/episodes/digest-2026-10-07.mp3</link>
+      <description>Agent platforms will take a cut from both ends of the sale, a gigawatt is worth ~$65B of GDP, AI pricing moves to usage, and why Figma labels anything AI helped write.</description>
+      <pubDate>Wed, 07 Oct 2026 13:18:01 +0000</pubDate>
+      <guid isPermaLink="true">https://jeremysdigest.com/episodes/digest-2026-10-07.mp3</guid>
+      <enclosure url="https://jeremysdigest.com/episodes/digest-2026-10-07.mp3" length="6548211" type="audio/mpeg"/>
+      <itunes:duration>6:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sep 30–Oct 4 | Users will bring their own AI · Old GPUs appreciate · Lab pay</title>
       <link>https://jeremysdigest.com/episodes/digest-2026-10-04.mp3</link>
       <description>ChatGPT's plugin rev share turns it into a billing layer, old GPUs rent for more than new, Amdahl's law for AI, and why an OpenAI marketing director out-earns most CMOs.</description>
