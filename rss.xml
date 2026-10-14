@@ -21,11 +21,21 @@
     <copyright>© 2026 Jeremy Hemsworth</copyright>
     <managingEditor>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</managingEditor>
     <webMaster>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</webMaster>
-    <lastBuildDate>Sun, 11 Oct 2026 13:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:18:30 +0000</lastBuildDate>
     <itunes:email>jeremy.hemsworth@gmail.com</itunes:email>
     <itunes:summary>Weekly digest of the best insights from newsletters and podcasts — AI-generated audio summary covering signal, contrarian takes, and tactical takeaways.</itunes:summary>
     <itunes:subtitle>Signal, contrarian takes, and tactical takeaways from the week's newsletters and podcasts.</itunes:subtitle>
         <item>
+      <title>Oct 11–14 | Speed is fuel, not a moat · Meta's $200B check · Swag got scarce</title>
+      <link>https://jeremysdigest.com/episodes/digest-2026-10-14.mp3</link>
+      <description>Speed and brand are fuel, not moats; Meta's $100–200B bet before seeing the model; why headless SaaS is brainless; and swag that works because it's scarce.</description>
+      <pubDate>Wed, 14 Oct 2026 13:18:30 +0000</pubDate>
+      <guid isPermaLink="false">https://jeremysdigest.com/episodes/digest-2026-10-14.mp3</guid>
+      <enclosure url="https://jeremysdigest.com/episodes/digest-2026-10-14.mp3" length="5782927" type="audio/mpeg"/>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Oct 7–11 | Agents are the new buyer · Friction is a business model · Muse's eval gate</title>
       <link>https://jeremysdigest.com/episodes/digest-2026-10-11.mp3</link>
       <description>Agents now drive half of Vercel's new business, businesses built on friction face agents that never give up, and why the proprietary-data moat pays the worst multiple.</description>
