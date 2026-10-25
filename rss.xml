@@ -21,10 +21,20 @@
     <copyright>© 2026 Jeremy Hemsworth</copyright>
     <managingEditor>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</managingEditor>
     <webMaster>jeremy.hemsworth@gmail.com (Jeremy Hemsworth)</webMaster>
-    <lastBuildDate>Wed, 14 Oct 2026 13:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:19:22 +0000</lastBuildDate>
     <itunes:email>jeremy.hemsworth@gmail.com</itunes:email>
     <itunes:summary>Weekly digest of the best insights from newsletters and podcasts — AI-generated audio summary covering signal, contrarian takes, and tactical takeaways.</itunes:summary>
     <itunes:subtitle>Signal, contrarian takes, and tactical takeaways from the week's newsletters and podcasts.</itunes:subtitle>
+        <item>
+      <title>Oct 14–25 | AI found the bugs · Design partners never buy · Mystery pricing</title>
+      <link>https://jeremysdigest.com/episodes/digest-2026-10-25.mp3</link>
+      <description>AI found this month's security holes rather than made them; why design partners never buy; the GTM channels AI can't do; and why nobody can say what AI costs.</description>
+      <pubDate>Sun, 25 Oct 2026 13:19:22 +0000</pubDate>
+      <guid isPermaLink="false">https://jeremysdigest.com/episodes/digest-2026-10-25.mp3</guid>
+      <enclosure url="https://jeremysdigest.com/episodes/digest-2026-10-25.mp3" length="6761369" type="audio/mpeg"/>
+      <itunes:duration>7:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
         <item>
       <title>Oct 11–14 | Speed is fuel, not a moat · Meta's $200B check · Swag got scarce</title>
       <link>https://jeremysdigest.com/episodes/digest-2026-10-14.mp3</link>
